@@ -23,4 +23,4 @@ May run in families, but are rarely born with aneurysm. The normal occurences ha
 ## Similarity and Differences
 
 Size | Size Desc. | Shape | Shape Desc. | Location | Location Desc.
-----   ----------   -----   -----------   --------   --------------
+---- | ---------- | ----- | ----------- | -------- | --------------
