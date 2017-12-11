@@ -14,4 +14,8 @@
 
 Most are usually not born with aneurysms, but are developed after the age of 40.
 
-They usually develop at *branching points* of **arteries** 
+They usually develop at *branching points* of **arteries**, and are caused by constant pressure from blood flow.
+
+Can also be assiciated with other type of blood vessel disorders.
+
+May run in families, but are rarely born with aneurysm. The normal occurences happen through infections, drugs such as amphetamines and cocaine that damage the brain's blood vessels, or direct brain trauma from an accident.
