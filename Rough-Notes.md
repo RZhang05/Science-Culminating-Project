@@ -27,7 +27,7 @@ Size | Size Desc. | Shape | Shape Desc.
 Small | Less than *5mm* | Saccular | Sac-like, well defined neck
 Medium | *6mm - 15mm* | Saccular | Wide-neck
 Large | *16mm - 25mm* | Fusiform | Spindle shaped, without a distinct neck
-Giant | Larger than *25mm*
+Giant | Larger than *25mm* | --- | ---
 
 ### Location
 
