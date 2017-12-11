@@ -22,6 +22,10 @@ May run in families, but are rarely born with aneurysm. The normal occurences ha
 
 ## Similarity and Differences
 
-Size | Size Desc. | Shape | Shape Desc. | Location
----- | ---------- | ----- | ----------- | --------
-Small | Less than *5mm* | Saccular | Sac-like, well defined neck | Major Arteries in brain structures. During surgery, normal brain tissue must be carefully spread apart to expose it. Can occur in the front part of the brain, or the back part of the brain.
+Size | Size Desc. | Shape | Shape Desc.
+---- | ---------- | ----- | -----------
+Small | Less than *5mm* | Saccular | Sac-like, well defined neck
+
+### Location
+
+Major Arteries in brain structures. During surgery, normal brain tissue must be carefully spread apart to expose it. Can occur in the front part of the brain, or the back part of the brain.
