@@ -19,3 +19,8 @@ They usually develop at *branching points* of **arteries**, and are caused by co
 Can also be assiciated with other type of blood vessel disorders.
 
 May run in families, but are rarely born with aneurysm. The normal occurences happen through infections, drugs such as amphetamines and cocaine that damage the brain's blood vessels, or direct brain trauma from an accident.
+
+## Similarity and Differences
+
+Size | Size Desc. | Shape | Shape Desc. | Location | Location Desc.
+----   ----------   -----   -----------   --------   --------------
