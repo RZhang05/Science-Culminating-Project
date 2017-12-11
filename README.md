@@ -6,5 +6,5 @@ Chosen Medical Problem: **Cerebral Aneurysm**
 
 # To-Do List
 
-- [] Effects on Organs, Organ Systems & Specialized Cells
-- [] Description of the number of people, age groups & geographical areas affected by the disease
+- [ ] Effects on Organs, Organ Systems & Specialized Cells
+- [ ] Description of the number of people, age groups & geographical areas affected by the disease
