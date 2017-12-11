@@ -37,7 +37,9 @@ Major Arteries in brain structures. During surgery, normal brain tissue must be 
 
 * **Special imaging techniques** can detect an aneurysm.
 * Non-Invasive:
-  * **CTA (computed tomographic angiography)**
+  * **CTA (computed tomographic angiography)**: Patients placed onto a table that slides into a CT scanner. A special contrast dye is injected into a vein, and images are taken of the blood vessels to look for abnormalities.
+  * **MRA (magnetic resonance angiography)**: Patients placed onto a table that slides into a MR scanner, and the blood vessels are imaged to detect cerebral aneurysm.
+  * Both screening tests detect most cerebral aneurysms larger than *3mm - 5mm*.
 
 # Citations
 
