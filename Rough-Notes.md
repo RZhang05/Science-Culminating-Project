@@ -33,6 +33,12 @@ Giant | Larger than *25mm* | --- | ---
 
 Major Arteries in brain structures. During surgery, normal brain tissue must be carefully spread apart to expose it. Can occur in the front part of the brain, or the back part of the brain.
 
+# How is it Diagnosed?
+
+* **Special imaging techniques** can detect an aneurysm.
+* Non-Invasive:
+  * **CTA (computed tomographic angiography)**
+
 # Citations
 
 [Stroke Association (.org website)](http://www.strokeassociation.org/STROKEORG/AboutStroke/TypesofStroke/HemorrhagicBleeds/What-You-Should-Know-About-Cerebral-Aneurysms_UCM_310103_Article.jsp#.Wi6mr7Q-dao)
