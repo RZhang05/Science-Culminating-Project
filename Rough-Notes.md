@@ -35,4 +35,4 @@ Major Arteries in brain structures. During surgery, normal brain tissue must be 
 
 # Citations
 
-(Stroke Association (.org website))[http://www.strokeassociation.org/STROKEORG/AboutStroke/TypesofStroke/HemorrhagicBleeds/What-You-Should-Know-About-Cerebral-Aneurysms_UCM_310103_Article.jsp#.Wi6mr7Q-dao]
+[Stroke Association (.org website)](http://www.strokeassociation.org/STROKEORG/AboutStroke/TypesofStroke/HemorrhagicBleeds/What-You-Should-Know-About-Cerebral-Aneurysms_UCM_310103_Article.jsp#.Wi6mr7Q-dao)
