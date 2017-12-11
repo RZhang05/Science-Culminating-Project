@@ -1,4 +1,4 @@
-# Description of the disease/health problem and the effect on organs, organ systems & specialized cells:
+# Rough Notes
 
 - A weak area in a blood vessel that usually enlarges
 
